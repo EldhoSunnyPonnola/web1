@@ -25,6 +25,12 @@ font-family: 'Tangerine', cursive; */
 
 }
 
+label{
+    font-size: 20px;
+    
+}
+
+
 .sub1 h1 {
     font-size: 40px;
 }
@@ -83,7 +89,8 @@ font-family: 'Tangerine', cursive; */
     display: flex;
     padding-left: 850px;
     padding-right: 0px;
-    padding-bottom: 800px;
+    /* padding-bottom: 800px; */
+    margin-bottom: 50px;
 }
 
 .sub1 a {
@@ -160,7 +167,7 @@ font-family: 'Tangerine', cursive; */
 
 .sub5 img {
     height: 200px;
-    margin-left: 200px;
+    margin-left: 250px;
     padding-top: 60px;
 }
 
@@ -652,6 +659,7 @@ table {
     height: 400px;
     width: 400px;
     background-color: rgba(0, 0, 0, 0.2);
+    padding-left:15px;
 
 
 
@@ -704,4 +712,21 @@ input[type="email"] {
 
 .j1 {
     display: flex;
+}
+
+
+/* .y1{
+    text-align: center;
+    font-family:fantasy;
+    font-size: 30px;
+} */
+
+.akhil{
+    color: aliceblue;
+    height:800px;
+    width: 1800px;
+    background-repeat: no-repeat;
+    background-image: url(images/close.jpg);
+    padding-left: 40%;
+    padding-top: 80px;
 }
